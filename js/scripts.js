@@ -1,10 +1,3 @@
-/*!
- * Modified version of the JavaScript for Bootstrap's docs (http://getbootstrap.com)
- * Copyright 2011-2014 Twitter, Inc.
- * Licensed under the Creative Commons Attribution 3.0 Unported License. For
- * details, see http://creativecommons.org/licenses/by/3.0/.
- * Used for the Start Bootstrap Resources Page Menu Bar (http://startbootstrap.com/bootstrap-resources/).
- */
 ! function(a) {
     a(function() {
         if (navigator.userAgent.match(/IEMobile\/10\.0/)) {

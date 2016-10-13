@@ -3107,7 +3107,7 @@ fieldset[disabled] .btn-default.focus {
 }
 .btn-primary {
   color: #ffffff;
-  background-color: #2196f3;
+  /* background-color: #2196f3; */
   border-color: transparent;
 }
 .btn-primary:focus,
@@ -3428,7 +3428,7 @@ fieldset[disabled] .btn-link:focus {
   padding: 10px 16px;
   font-size: 17px;
   line-height: 1.3333333;
-  border-radius: 3px;
+  border-radius: 0px;
 }
 .btn-sm,
 .btn-group-sm > .btn {
@@ -4968,7 +4968,7 @@ a.badge:focus {
 }
 .container .jumbotron,
 .container-fluid .jumbotron {
-  border-radius: 3px;
+  border-radius: 0px;
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -4982,8 +4982,8 @@ a.badge:focus {
   }
   .container .jumbotron,
   .container-fluid .jumbotron {
-    padding-left: 60px;
-    padding-right: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
   .jumbotron h1,
   .jumbotron .h1 {
@@ -6790,7 +6790,7 @@ button.close {
 }
 .btn-primary:hover,
 .btn-primary:active:hover {
-  background-color: #0d87e9;
+  background-color: #888f94;
 }
 .btn-primary:active {
   -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
